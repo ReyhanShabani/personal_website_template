@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 locale                   : "en-US" 
 title                    : "Reyhan Shabani"
 title_separator          : "-"
-name                     : "Poorang" 
+name                     : "Reyhan" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : reyhan_shabani
 facebook:
-  username               : sauleh.eetemadi
+  username               : reyhan_shabani
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -109,18 +109,18 @@ analytics:
 author:
   name             : "Reyhan Shabani"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm the best student.
+  bio              : I'm CE student.
   location         : "Tehran"
   email            : reihansh2006@gmail.com
   twitter: sauleh_e
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
+  github: reyhanshabani
   instagram: reihanhoin
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      # url: mailto:reihansh2006@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
